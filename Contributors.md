@@ -41,6 +41,7 @@ kunal
 - [Rohit Bagade](https://github.com/Rohitbagade-cs)
 - [Ryan Cross](https://girhub.com/rycr3278)
 - [Swadish Muralitharan](https://github.com/swag1711)
+- [Ursula Tamen](https://github.com/Ursula100)
 - [Kris Hvattum](https://github.com/kristofer11)
 - [Siddharth](https://github.com/Siddharth1605)
 - [Jose Torres](https://github.com/BermudaOG)
