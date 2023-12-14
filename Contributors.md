@@ -21,7 +21,8 @@ abdqudus (https://github.com/abdqudus)
 sara
 paramesh g v
 - Jimmy Wu
--[ Piyush Chopade ] 
+-[ Piyush Chopade ]
+  [Ursula Tamen](https://github.com/Ursula100)
 -[ Naos Belay ] (https://github.com/Amenediel)
 -[Magnim] (https://github.com/magnim)
 -[Gakii] (https://github.com/eleanorgakii)
